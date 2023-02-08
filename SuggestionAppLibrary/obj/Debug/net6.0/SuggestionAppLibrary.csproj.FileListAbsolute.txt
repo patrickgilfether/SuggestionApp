@@ -1,0 +1,12 @@
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.deps.json
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.AssemblyReference.cache
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfoInputs.cache
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfo.cs
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/refint/SuggestionAppLibrary.dll
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/patrickgilfether/Documents/code/csharp/BlazorSuggestionsAppTimCorey/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/ref/SuggestionAppLibrary.dll

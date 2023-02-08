@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuggestionApp" expanded="True">
+            <Node name="SuggestionAppLibrary" expanded="True">
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SuggestionAppUI" expanded="True">
+              <Node name="Shared" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SuggestionAppUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

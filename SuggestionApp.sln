@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppUI", "SuggestionAppUI\SuggestionAppUI.csproj", "{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{FBC43812-2839-4284-A8DC-5BA2ADF5865E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5BDACD9C-789A-42C4-AFD8-6A0820D624AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817D3F1C-1ECB-48AD-AF2C-4A13316B9D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC43812-2839-4284-A8DC-5BA2ADF5865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC43812-2839-4284-A8DC-5BA2ADF5865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC43812-2839-4284-A8DC-5BA2ADF5865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC43812-2839-4284-A8DC-5BA2ADF5865E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8C7BD8-4B65-4379-80ED-8CBECF8E3EB1}
+	EndGlobalSection
+EndGlobal
