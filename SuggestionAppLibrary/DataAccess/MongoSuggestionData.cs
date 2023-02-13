@@ -146,7 +146,7 @@ public class MongoSuggestionData : ISuggestionData
             var usersInTransaction = db.GetCollection<UserModel>(_db.UserCollectionName);
             var user = await _userData.GetUser(suggestion.Author.Id);
             user.AuthoredSuggestions.Add(new BasicSuggestionModel(suggestion));
-            await usersInTransaction.ReplaceOneAsync(u => u.Id, user);
+            await usersInTransaction.ReplaceOneAsync(u => u.Id == user.Id, user);
             await session.CommitTransactionAsync();
             //we don't invalidate cache here, as the suggestion will be pending admin review anyhow.
         }

@@ -19,7 +19,7 @@ public class SuggestionModel
     public string Description { get; set; }
     public DateTime DateCreated { get; set; } = DateTime.UtcNow;
     public CategoryModel Category { get; set; }
-    public string Author { get; set; }
+    public BasicUserModel Author { get; set; }
     public HashSet<string> UserVotes { get; set; } = new HashSet<string>();
     public StatusModel SuggestionStatus { get; set; }
     public string OwnerNotes { get; set; }
