@@ -10,7 +10,7 @@ using MongoDB.Driver;
 
 namespace SuggestionAppLibrary.DataAccess;
 
-public class DbConnection
+public class DbConnection : IDbConnection
 {
     //interfaces
     private readonly IConfiguration _config; //appsettings.json
@@ -26,7 +26,7 @@ public class DbConnection
     public string SuggestionCollectionName { get; private set; } = "suggestions";
     //client and collections
     public MongoClient Client { get; private set; }
-    public IMongoCollection<CategoryModel> CategoryCollection{ get; private set;}
+    public IMongoCollection<CategoryModel> CategoryCollection { get; private set; }
     public IMongoCollection<StatusModel> StatusCollection { get; private set; }
     public IMongoCollection<UserModel> UserCollection { get; private set; }
     public IMongoCollection<SuggestionModel> SuggestionCollection { get; private set; }
