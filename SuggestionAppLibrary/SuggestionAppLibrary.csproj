@@ -11,6 +11,7 @@
     <None Remove="Microsoft.Extensions.Caching.Memory" />
     <None Remove="Microsoft.Extensions.Configuration.Abstractions" />
     <None Remove="MongoDB.Driver" />
+    <None Remove="MongoDB.Analyzer" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataAccess\" />
@@ -20,5 +21,6 @@
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
+    <PackageReference Include="MongoDB.Analyzer" Version="1.1.0" />
   </ItemGroup>
 </Project>
